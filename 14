@@ -1,0 +1,4 @@
+
+function getCuboidVolume(length, width, height) {
+  return length * width * height;
+}
